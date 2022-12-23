@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #0e0c0c;
+    min-width: 350px;
+}
+
+#input-el {
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+    background: #0e0c0c;
+    color: azure;
+    border: 1px solid #5f9341;
+}
+
+#input-btn {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    background: #5f9341;
+    color: white;
+}
+
+#tab-btn {
+    margin-top: 10px;
+    padding: 10px;
+    border: none;
+    font-weight: bold;
+    background: #5f9341;
+    color: white;
+}
+
+#delete-btn {
+    margin-top: 10px;
+    padding: 10px;
+    border: 1px solid #5f9341;
+    font-weight: bold;
+    background: #0e0c0c;
+    color: #5f9341;
+}
+
+ul {
+    margin-top: 20px;
+    padding-left: 0;
+    list-style: none;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: cadetblue;
+}
+li a:hover {
+    color: aqua;
+}
